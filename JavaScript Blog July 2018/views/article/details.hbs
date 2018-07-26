@@ -1,0 +1,31 @@
+<div class="container body-content">
+    <div class="row">
+        <div class="col-md-12">
+            <article>
+                <header>
+                    <h2>{{title}}</h2>
+                </header>
+
+                <img src="{{this.pictureUrl}}" alt="" style="width: 50%; margin-bottom: 20px;">
+                <section style="width: 45%; float: right;">
+                    <p>Summary:</p>
+                    <p>{{this.summary}}</p>
+                </section>
+
+                <p>
+                    {{content}}
+                </p>
+
+                <small class="author">
+                    {{this.User.fullName}}
+                </small>
+
+                <footer>
+                    <div class="pull-right">
+                        <a class="btn btn-default btn-xs" href="/">Back &raquo;</a>
+                    </div>
+                </footer>
+            </article>
+        </div>
+    </div>
+</div>
