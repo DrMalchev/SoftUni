@@ -1,0 +1,12 @@
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\bin\Release\netcoreapp2.0\CSHARP Blog.deps.json
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\bin\Release\netcoreapp2.0\CSHARP Blog.runtimeconfig.json
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\bin\Release\netcoreapp2.0\CSHARP Blog.runtimeconfig.dev.json
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\bin\Release\netcoreapp2.0\CSHARP Blog.dll
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\bin\Release\netcoreapp2.0\CSHARP Blog.pdb
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\obj\Release\netcoreapp2.0\CSHARP Blog.csprojAssemblyReference.cache
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\obj\Release\netcoreapp2.0\CSHARP Blog.csproj.CoreCompileInputs.cache
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\obj\Release\netcoreapp2.0\CSHARP Blog.AssemblyInfoInputs.cache
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\obj\Release\netcoreapp2.0\CSHARP Blog.AssemblyInfo.cs
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\obj\Release\netcoreapp2.0\CSHARP Blog.dll
+C:\_DATA\SoftUni\Projects\02 Tech Module\02_02 Software Technologies\28 CSHARP Blog\CSHARP Blog\CSHARP Blog\obj\Release\netcoreapp2.0\CSHARP Blog.pdb
