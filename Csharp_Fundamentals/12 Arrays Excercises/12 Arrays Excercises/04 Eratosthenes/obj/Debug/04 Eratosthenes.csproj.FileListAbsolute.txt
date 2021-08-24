@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\04 Eratosthenes\bin\Debug\04 Eratosthenes.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\04 Eratosthenes\bin\Debug\04 Eratosthenes.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\04 Eratosthenes\bin\Debug\04 Eratosthenes.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\04 Eratosthenes\obj\Debug\04 Eratosthenes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\04 Eratosthenes\obj\Debug\04 Eratosthenes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\04 Eratosthenes\obj\Debug\04 Eratosthenes.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\04 Eratosthenes\obj\Debug\04 Eratosthenes.pdb

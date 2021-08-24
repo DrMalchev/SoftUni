@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\06 Sum Reversed Numbers\bin\Debug\06 Sum Reversed Numbers.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\06 Sum Reversed Numbers\bin\Debug\06 Sum Reversed Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\06 Sum Reversed Numbers\bin\Debug\06 Sum Reversed Numbers.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\06 Sum Reversed Numbers\obj\Debug\06 Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\06 Sum Reversed Numbers\obj\Debug\06 Sum Reversed Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\06 Sum Reversed Numbers\obj\Debug\06 Sum Reversed Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\06 Sum Reversed Numbers\obj\Debug\06 Sum Reversed Numbers.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Tripple Sum\obj\Debug\04 Tripple Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Tripple Sum\obj\Debug\04 Tripple Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Tripple Sum\bin\Debug\03 Tripple Sum.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Tripple Sum\bin\Debug\03 Tripple Sum.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Tripple Sum\bin\Debug\03 Tripple Sum.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Tripple Sum\obj\Debug\03 Tripple Sum.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Tripple Sum\obj\Debug\03 Tripple Sum.pdb

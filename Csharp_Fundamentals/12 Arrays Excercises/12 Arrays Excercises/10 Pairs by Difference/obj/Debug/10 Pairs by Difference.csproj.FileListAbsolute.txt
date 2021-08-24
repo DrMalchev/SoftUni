@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\10 Pairs by Difference\bin\Debug\10 Pairs by Difference.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\10 Pairs by Difference\bin\Debug\10 Pairs by Difference.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\10 Pairs by Difference\bin\Debug\10 Pairs by Difference.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\10 Pairs by Difference\obj\Debug\10 Pairs by Difference.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\10 Pairs by Difference\obj\Debug\10 Pairs by Difference.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\10 Pairs by Difference\obj\Debug\10 Pairs by Difference.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\10 Pairs by Difference\obj\Debug\10 Pairs by Difference.pdb

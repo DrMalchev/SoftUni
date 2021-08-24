@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\07 Population Counter\bin\Debug\07 Population Counter.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\07 Population Counter\bin\Debug\07 Population Counter.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\07 Population Counter\bin\Debug\07 Population Counter.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\07 Population Counter\obj\Debug\07 Population Counter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\07 Population Counter\obj\Debug\07 Population Counter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\07 Population Counter\obj\Debug\07 Population Counter.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\07 Population Counter\obj\Debug\07 Population Counter.pdb

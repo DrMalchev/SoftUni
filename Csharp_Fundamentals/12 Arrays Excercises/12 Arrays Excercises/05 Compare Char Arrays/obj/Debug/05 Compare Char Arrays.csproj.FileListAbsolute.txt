@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\05 Compare Char Arrays\bin\Debug\05 Compare Char Arrays.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\05 Compare Char Arrays\bin\Debug\05 Compare Char Arrays.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\05 Compare Char Arrays\bin\Debug\05 Compare Char Arrays.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\05 Compare Char Arrays\obj\Debug\05 Compare Char Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\05 Compare Char Arrays\obj\Debug\05 Compare Char Arrays.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\05 Compare Char Arrays\obj\Debug\05 Compare Char Arrays.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\05 Compare Char Arrays\obj\Debug\05 Compare Char Arrays.csprojResolveAssemblyReference.cache

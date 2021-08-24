@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\08 Most Freq Nums\bin\Debug\08 Most Freq Nums.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\08 Most Freq Nums\bin\Debug\08 Most Freq Nums.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\08 Most Freq Nums\bin\Debug\08 Most Freq Nums.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\08 Most Freq Nums\obj\Debug\08 Most Freq Nums.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\08 Most Freq Nums\obj\Debug\08 Most Freq Nums.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\08 Most Freq Nums\obj\Debug\08 Most Freq Nums.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\08 Most Freq Nums\obj\Debug\08 Most Freq Nums.pdb

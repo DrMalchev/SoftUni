@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\05 Sort Names\bin\Debug\05 Sort Names.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\05 Sort Names\bin\Debug\05 Sort Names.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\05 Sort Names\bin\Debug\05 Sort Names.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\05 Sort Names\obj\Debug\05 Sort Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\05 Sort Names\obj\Debug\05 Sort Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\05 Sort Names\obj\Debug\05 Sort Names.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\05 Sort Names\obj\Debug\05 Sort Names.pdb

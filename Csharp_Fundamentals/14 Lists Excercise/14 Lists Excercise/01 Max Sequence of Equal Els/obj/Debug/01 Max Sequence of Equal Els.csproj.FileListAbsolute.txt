@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\01 Max Sequence of Equal Els\bin\Debug\01 Max Sequence of Equal Els.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\01 Max Sequence of Equal Els\bin\Debug\01 Max Sequence of Equal Els.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\01 Max Sequence of Equal Els\bin\Debug\01 Max Sequence of Equal Els.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\01 Max Sequence of Equal Els\obj\Debug\01 Max Sequence of Equal Els.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\01 Max Sequence of Equal Els\obj\Debug\01 Max Sequence of Equal Els.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\01 Max Sequence of Equal Els\obj\Debug\01 Max Sequence of Equal Els.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\01 Max Sequence of Equal Els\obj\Debug\01 Max Sequence of Equal Els.pdb

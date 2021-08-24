@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\07 Max Sequence of Incr Nums\bin\Debug\07 Max Sequence of Incr Nums.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\07 Max Sequence of Incr Nums\bin\Debug\07 Max Sequence of Incr Nums.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\07 Max Sequence of Incr Nums\bin\Debug\07 Max Sequence of Incr Nums.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\07 Max Sequence of Incr Nums\obj\Debug\07 Max Sequence of Incr Nums.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\07 Max Sequence of Incr Nums\obj\Debug\07 Max Sequence of Incr Nums.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\07 Max Sequence of Incr Nums\obj\Debug\07 Max Sequence of Incr Nums.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\12 Arrays Excercises\12 Arrays Excercises\07 Max Sequence of Incr Nums\obj\Debug\07 Max Sequence of Incr Nums.pdb

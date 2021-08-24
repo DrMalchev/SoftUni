@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Last K Num Sums\bin\Debug\03 Last K Num Sums.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Last K Num Sums\bin\Debug\03 Last K Num Sums.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Last K Num Sums\bin\Debug\03 Last K Num Sums.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Last K Num Sums\obj\Debug\03 Last K Num Sums.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Last K Num Sums\obj\Debug\03 Last K Num Sums.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Last K Num Sums\obj\Debug\03 Last K Num Sums.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\03 Last K Num Sums\obj\Debug\03 Last K Num Sums.pdb

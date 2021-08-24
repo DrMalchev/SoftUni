@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\06_02\bin\Debug\06_02.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\06_02\bin\Debug\06_02.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\06_02\bin\Debug\06_02.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\06_02\obj\Debug\06_02.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\06_02\obj\Debug\06_02.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\06_02\obj\Debug\06_02.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\06_02\obj\Debug\06_02.pdb

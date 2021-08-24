@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\05 Short Words Sorted\bin\Debug\05 Short Words Sorted.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\05 Short Words Sorted\bin\Debug\05 Short Words Sorted.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\05 Short Words Sorted\bin\Debug\05 Short Words Sorted.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\05 Short Words Sorted\obj\Debug\05 Short Words Sorted.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\05 Short Words Sorted\obj\Debug\05 Short Words Sorted.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\05 Short Words Sorted\obj\Debug\05 Short Words Sorted.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\05 Short Words Sorted\obj\Debug\05 Short Words Sorted.pdb

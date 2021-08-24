@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\10 Srbsko\bin\Debug\10 Srbsko.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\10 Srbsko\bin\Debug\10 Srbsko.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\10 Srbsko\bin\Debug\10 Srbsko.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\10 Srbsko\obj\Debug\10 Srbsko.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\10 Srbsko\obj\Debug\10 Srbsko.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\10 Srbsko\obj\Debug\10 Srbsko.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\10 Srbsko\obj\Debug\10 Srbsko.pdb

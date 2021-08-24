@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\05 Hands of Cards\bin\Debug\05 Hands of Cards.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\05 Hands of Cards\bin\Debug\05 Hands of Cards.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\05 Hands of Cards\bin\Debug\05 Hands of Cards.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\05 Hands of Cards\obj\Debug\05 Hands of Cards.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\05 Hands of Cards\obj\Debug\05 Hands of Cards.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\05 Hands of Cards\obj\Debug\05 Hands of Cards.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\05 Hands of Cards\obj\Debug\05 Hands of Cards.pdb

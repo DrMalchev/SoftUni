@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\09 Extract Middle\bin\Debug\09 Extract Middle.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\09 Extract Middle\bin\Debug\09 Extract Middle.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\09 Extract Middle\bin\Debug\09 Extract Middle.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\09 Extract Middle\obj\Debug\09 Extract Middle.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\09 Extract Middle\obj\Debug\09 Extract Middle.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\09 Extract Middle\obj\Debug\09 Extract Middle.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\09 Extract Middle\obj\Debug\09 Extract Middle.pdb

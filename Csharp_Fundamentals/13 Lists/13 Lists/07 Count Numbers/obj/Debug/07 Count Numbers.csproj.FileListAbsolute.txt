@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\07 Count Numbers\bin\Debug\07 Count Numbers.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\07 Count Numbers\bin\Debug\07 Count Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\07 Count Numbers\bin\Debug\07 Count Numbers.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\07 Count Numbers\obj\Debug\07 Count Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\07 Count Numbers\obj\Debug\07 Count Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\07 Count Numbers\obj\Debug\07 Count Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\13 Lists\13 Lists\07 Count Numbers\obj\Debug\07 Count Numbers.pdb

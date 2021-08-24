@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\07 Sum Arrays\bin\Debug\07 Sum Arrays.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\07 Sum Arrays\bin\Debug\07 Sum Arrays.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\07 Sum Arrays\bin\Debug\07 Sum Arrays.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\07 Sum Arrays\obj\Debug\07 Sum Arrays.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\07 Sum Arrays\obj\Debug\07 Sum Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\07 Sum Arrays\obj\Debug\07 Sum Arrays.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\07 Sum Arrays\obj\Debug\07 Sum Arrays.pdb

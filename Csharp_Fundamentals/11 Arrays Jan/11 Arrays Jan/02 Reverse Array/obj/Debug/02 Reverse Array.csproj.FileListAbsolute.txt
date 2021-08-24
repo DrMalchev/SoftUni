@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\02 Reverse Array\bin\Debug\02 Reverse Array.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\02 Reverse Array\bin\Debug\02 Reverse Array.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\02 Reverse Array\bin\Debug\02 Reverse Array.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\02 Reverse Array\obj\Debug\02 Reverse Array.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\02 Reverse Array\obj\Debug\02 Reverse Array.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\02 Reverse Array\obj\Debug\02 Reverse Array.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\02 Reverse Array\obj\Debug\02 Reverse Array.pdb

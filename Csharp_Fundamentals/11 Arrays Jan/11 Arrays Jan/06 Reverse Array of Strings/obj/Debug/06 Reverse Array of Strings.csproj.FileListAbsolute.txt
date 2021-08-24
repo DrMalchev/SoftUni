@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\06 Reverse Array of Strings\bin\Debug\06 Reverse Array of Strings.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\06 Reverse Array of Strings\bin\Debug\06 Reverse Array of Strings.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\06 Reverse Array of Strings\bin\Debug\06 Reverse Array of Strings.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\06 Reverse Array of Strings\obj\Debug\06 Reverse Array of Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\06 Reverse Array of Strings\obj\Debug\06 Reverse Array of Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\06 Reverse Array of Strings\obj\Debug\06 Reverse Array of Strings.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\11 Arrays Jan\11 Arrays Jan\06 Reverse Array of Strings\obj\Debug\06 Reverse Array of Strings.pdb

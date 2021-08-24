@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\05 Array Manipulator\bin\Debug\05 Array Manipulator.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\05 Array Manipulator\bin\Debug\05 Array Manipulator.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\05 Array Manipulator\bin\Debug\05 Array Manipulator.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\05 Array Manipulator\obj\Debug\05 Array Manipulator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\05 Array Manipulator\obj\Debug\05 Array Manipulator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\05 Array Manipulator\obj\Debug\05 Array Manipulator.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\05 Array Manipulator\obj\Debug\05 Array Manipulator.pdb

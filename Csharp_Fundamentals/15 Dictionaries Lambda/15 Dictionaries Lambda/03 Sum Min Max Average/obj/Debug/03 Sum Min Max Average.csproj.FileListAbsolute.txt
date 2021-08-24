@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\03 Sum Min Max Average\bin\Debug\03 Sum Min Max Average.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\03 Sum Min Max Average\bin\Debug\03 Sum Min Max Average.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\03 Sum Min Max Average\bin\Debug\03 Sum Min Max Average.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\03 Sum Min Max Average\obj\Debug\03 Sum Min Max Average.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\03 Sum Min Max Average\obj\Debug\03 Sum Min Max Average.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\03 Sum Min Max Average\obj\Debug\03 Sum Min Max Average.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\03 Sum Min Max Average\obj\Debug\03 Sum Min Max Average.pdb

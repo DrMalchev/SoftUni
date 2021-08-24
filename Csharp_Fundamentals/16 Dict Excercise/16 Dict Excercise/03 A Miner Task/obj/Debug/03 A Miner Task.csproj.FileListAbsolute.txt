@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\03 A Miner Task\bin\Debug\03 A Miner Task.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\03 A Miner Task\bin\Debug\03 A Miner Task.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\03 A Miner Task\bin\Debug\03 A Miner Task.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\03 A Miner Task\obj\Debug\03 A Miner Task.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\03 A Miner Task\obj\Debug\03 A Miner Task.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\03 A Miner Task\obj\Debug\03 A Miner Task.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\16 Dict Excercise\16 Dict Excercise\03 A Miner Task\obj\Debug\03 A Miner Task.pdb

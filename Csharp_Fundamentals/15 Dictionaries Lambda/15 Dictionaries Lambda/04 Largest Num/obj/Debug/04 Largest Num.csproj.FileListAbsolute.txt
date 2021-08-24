@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\04 Largest Num\bin\Debug\04 Largest Num.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\04 Largest Num\bin\Debug\04 Largest Num.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\04 Largest Num\bin\Debug\04 Largest Num.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\04 Largest Num\obj\Debug\04 Largest Num.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\04 Largest Num\obj\Debug\04 Largest Num.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\04 Largest Num\obj\Debug\04 Largest Num.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\04 Largest Num\obj\Debug\04 Largest Num.pdb

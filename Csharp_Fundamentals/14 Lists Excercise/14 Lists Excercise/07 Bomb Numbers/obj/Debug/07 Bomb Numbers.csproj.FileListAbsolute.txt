@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\07 Bomb Numbers\bin\Debug\07 Bomb Numbers.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\07 Bomb Numbers\bin\Debug\07 Bomb Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\07 Bomb Numbers\bin\Debug\07 Bomb Numbers.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\07 Bomb Numbers\obj\Debug\07 Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\07 Bomb Numbers\obj\Debug\07 Bomb Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\07 Bomb Numbers\obj\Debug\07 Bomb Numbers.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\14 Lists Excercise\14 Lists Excercise\07 Bomb Numbers\obj\Debug\07 Bomb Numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\02 Odd Occurances\bin\Debug\02 Odd Occurances.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\02 Odd Occurances\bin\Debug\02 Odd Occurances.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\02 Odd Occurances\bin\Debug\02 Odd Occurances.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\02 Odd Occurances\obj\Debug\02 Odd Occurances.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\02 Odd Occurances\obj\Debug\02 Odd Occurances.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\02 Odd Occurances\obj\Debug\02 Odd Occurances.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\15 Dictionaries Lambda\15 Dictionaries Lambda\02 Odd Occurances\obj\Debug\02 Odd Occurances.pdb
