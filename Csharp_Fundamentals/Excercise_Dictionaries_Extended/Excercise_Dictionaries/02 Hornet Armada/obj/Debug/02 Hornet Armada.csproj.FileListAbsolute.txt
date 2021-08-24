@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\Excercise_Dictionaries_Extended\Excercise_Dictionaries\02 Hornet Armada\bin\Debug\02 Hornet Armada.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\Excercise_Dictionaries_Extended\Excercise_Dictionaries\02 Hornet Armada\bin\Debug\02 Hornet Armada.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\Excercise_Dictionaries_Extended\Excercise_Dictionaries\02 Hornet Armada\bin\Debug\02 Hornet Armada.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\Excercise_Dictionaries_Extended\Excercise_Dictionaries\02 Hornet Armada\obj\Debug\02 Hornet Armada.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\Excercise_Dictionaries_Extended\Excercise_Dictionaries\02 Hornet Armada\obj\Debug\02 Hornet Armada.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\Excercise_Dictionaries_Extended\Excercise_Dictionaries\02 Hornet Armada\obj\Debug\02 Hornet Armada.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\Excercise_Dictionaries_Extended\Excercise_Dictionaries\02 Hornet Armada\obj\Debug\02 Hornet Armada.pdb
