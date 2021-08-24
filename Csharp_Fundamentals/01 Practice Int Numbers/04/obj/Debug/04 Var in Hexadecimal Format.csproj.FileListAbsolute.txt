@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\04\bin\Debug\04.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\04\bin\Debug\04.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\04\bin\Debug\04.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\04\obj\Debug\04 Var in Hexadecimal Format.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\04\obj\Debug\04 Var in Hexadecimal Format.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\04\obj\Debug\04.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\04\obj\Debug\04.pdb

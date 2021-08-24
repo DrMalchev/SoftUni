@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\03 Water Overflow\bin\Debug\03 Water Overflow.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\03 Water Overflow\bin\Debug\03 Water Overflow.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\03 Water Overflow\bin\Debug\03 Water Overflow.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\03 Water Overflow\obj\Debug\03 Water Overflow.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\03 Water Overflow\obj\Debug\03 Water Overflow.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\03 Water Overflow\obj\Debug\03 Water Overflow.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\03 Water Overflow\obj\Debug\03 Water Overflow.pdb

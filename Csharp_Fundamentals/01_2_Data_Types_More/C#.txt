@@ -1,0 +1,467 @@
+Console.WriteLine(Price.ToString("#0.00"));
+или
+Console.WriteLine("{0:0.00}", Price); // example 1.00
+
+Console.WriteLine($"{total:F2}");
+
+Console.WriteLine($"{tm}:{ts:D2}"); ((или F2
+
+			double[] myarray = new double[n];
+			for ...
+			myarray[i] = double.Parse(Console.ReadLine());
+			double[] even = myarray.Where((x, i) => i % 2 == 0).ToArray(); //index of array
+			double[] odd = myarray.Where((x, i) => i % 2 != 0).ToArray();
+
+
+
+			double[] myarray =  {1, 2, 0, 4, 5 };
+			//
+			double[] a1 = myarray.Where(item => item == 0).ToArray(); //item in array
+			double[] a2 = myarray.Where(item => item != 0).ToArray();
+
+			Console.WriteLine(string.Join(",", a1));
+			Console.WriteLine(string.Join(",", a2));
+
+			// Print
+			for (int i = 0; i < matrix.GetLength(0); i++)
+			{
+				for (int j = 0; j < matrix.GetLength(1); j++)
+				{
+					Console.Write(matrix[i,j]);
+				}
+				Console.WriteLine();
+			}
+			//end print
+
+			//cut3
+			//AAA
+			//AA
+			//A
+			for (int i = 1; i < n; i++)
+			{
+				for (int j = n - i-1; j >= 0; j--)
+				{
+					matrix[i, j] = " ";
+				}
+			}
+			//end cut3
+
+			//cut4
+			//AAA
+			// AA
+			//  A
+			for (int i = 1; i < n + 1; i++)
+			{
+				for (int j = i+n+3; j < 2*n + 3; j++)
+				{
+					
+						matrix[i, j] = " ";
+				
+				}
+			}
+			//end cut4
+
+
+
+			Time Error => delete unneeded empty lines
+
+			string num1 = Console.ReadLine();
+			string num2 = Console.ReadLine();
+
+			int num1d1 = num1[0] - '0';
+			int num1d2 = num1[1] - '0';
+			int num1d3 = num1[2] - '0';
+			int num1d4 = num1[3] - '0';
+
+			int num2d1 = num2[0] - '0';
+			int num2d2 = num2[1] - '0';
+			int num2d3 = num2[2] - '0';
+			int num2d4 = num2[3] - '0';
+
+
+
+using System.Globalization;
+
+
+
+Nasoki
+1. Navsqkude da slagam .0, t.e. ako imam 25% => 25/100.0
+2. ne proverqwam granicite, primer [1..100]
+3. 						switch (posneg)
+						{
+							case "positive":
+								Console.WriteLine($"{((Days - 1) * 35 * .8) * (1.25):F2}");
+								break;
+							case "negative":
+								Console.WriteLine($"{((Days - 1) * 35 * .8) * (0.9):F2}");
+								break;
+						}
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+			TimeSpan t = TimeSpan.FromSeconds(totalTime);
+
+			string output = string.Format("{0:D1}:{1:D2}:{2:D2}:{3:D2}",
+							t.Days,			
+							t.Hours,
+							t.Minutes,
+							t.Seconds);
+			Console.WriteLine(output);
+
+
+			//read array 150 as int 1,5,0
+			string items = Console
+				.ReadLine();
+				.Select(c => "" +c)
+				.Select(int.Parse)
+				.ToArray();
+			//read array 1 5 0 as int 1,5,0
+			var nums = Console.ReadLine().Split(' ').Select(s => int.Parse(s)).ToArray();
+
+				List<string> words = Console.ReadLine()
+				.Split(".,:;()[]\"'\\/!? ".ToCharArray(),StringSplitOptions.RemoveEmptyEntries)
+				.ToList();
+
+
+Console.WriteLine(string.Join(" " , result));
+
+
+		static int[] GetRow(int[,] rotated, int i) //matrix rotated [,] and Row i
+		{
+			int n = rotated.GetLength(1);
+			int[] result = new int[n]; //numb of columns
+
+			for (int iMethod = 0; iMethod < n; iMethod++)
+			{
+				result[iMethod] = rotated[i,iMethod];
+			}
+
+			return result;
+		}
+
+
+		static int[] GetColumn(int[,] rotated, int i)
+		{
+			int n = rotated.GetLength(0);
+			int[] result = new int[n]; //numb of columns
+
+			for (int iMethod = 0; iMethod < n; iMethod++)
+			{
+				result[iMethod] = rotated[iMethod,i];
+			}
+
+			return result;
+		}
+
+
+/// combine arrays
+array front
+array back
+int[] combined = front.Concat(back).ToArray();
+nums = even.Zip(odd, (x, y) => x + y).ToList(); //or
+nums = even.Select((x,y) => x + odd[y]).ToArray();
+
+list1.AddRange(list2);
+
+
+// fill array
+				string[] temp = new string[arr2.Length];  //temp takes the length of the longer array
+				temp = temp.Select(i => "0").ToArray(); //temo is filled with zeroes
+				int startIndex = arr2.Length-arr1.Length; //start index of data, Before only zeroes
+				int endIndex = arr2.Length; //end index
+				// copy arr1 from first(0) value to temp from index start. number of values to fill end-start
+				Array.Copy(arr1, 0, temp, startIndex, endIndex-startIndex); 
+				arr1 = temp;
+
+// read List
+				List<int> nums = Console.ReadLine()
+				.Split(new char[] {' ' }, StringSplitOptions.RemoveEmptyEntries)
+				.Select(s => int.Parse(s))
+				.ToList();
+
+nums.RemoveAll(x => x == arg1);
+numbers.RemoveAll(x => x<0);
+nums.FindIndex(x => x == element3)
+List<int> myList= new List<int>() { 1,2,3,-1,4,5};
+
+var maxIndex = counter.IndexOf(counter.Max()); //counter is a List of int
+
+
+			List<int> duplicateNums = new List<int>();
+			List<int> duplicateCount = new List<int>();
+
+			duplicateNums = nums.GroupBy(x => x)
+						.Where(group => group.Count() > 1)
+						.Select(group => group.Key)
+						.ToList();
+			duplicateCount = nums.GroupBy(x => x)
+						.Where(group => group.Count() > 1)
+						.Select(group => group.Count())
+						.ToList();
+
+
+
+
+foreach (var num in mostFrequent.OrderByDescending(x=>x.Count()))
+
+            {
+
+                var element=num.Key;
+
+                var ocurr=num.Count();
+
+                Console.WriteLine(string.Concat(Enumerable.Repeat(element+" ",ocurr)));
+
+
+
+                break;
+
+            }
+
+
+--------------------DICT---------------
+wordsDict[item]++;
+
+//print dict
+Console.WriteLine($"{input[1]} -> {phonebook[input[1]]}"); // input[1] is the key, phonebook[input[1]] is the value
+
+			foreach (var pair in wordsDict)
+			{
+			Console.WriteLine(pair.Key+ " -> " +pair.Value);
+			}
+
+phonebook[input[1]] = input[2]; // inp1 is name, inp2 is tel nr.
+phonebook.Add(input[1], input[2]);
+
+//order, sort
+			var sortedList = namesDict.ToList();
+			sortedList.Sort((x, y) => x.Key.CompareTo(y.Key));
+			namesDict=sortedList.ToDictionary(x => x.Key, y => y.Value);
+
+//order in print
+					foreach (var item in phonebook.OrderBy(x => x.Key))
+					{
+						Console.WriteLine($"{item.Key} -> {item.Value}");
+					}
+
+
+
+//nested DICT
+				else
+				{
+					if (userDict[user].ContainsKey(ip) == false)
+					{
+						userDict[user].Add(ip, 1);
+					}
+					else
+					{
+						userDict[user][ip] += 1;
+					}
+
+				}
+
+//print
+			foreach (var pair in locDict)
+			{
+				Console.WriteLine(pair.Key);
+				foreach (var pair2 in pair.Value)
+				{
+
+				}
+			}
+
+// class Pooint
+			var point = new Point()
+			{
+				X = 10,
+				Y = 20
+			};
+
+//Console.WriteLine(result ? "Inside" : "Not Inside");
+
+//
+			foreach (var book in myLibrary.Books
+				.GroupBy(x=> x.Author)
+				.OrderByDescending(x => x
+					.Sum(y => y.Price))
+					.ThenBy(x=> x.Key)
+					)
+					
+			{
+				Console.WriteLine($"{book.Key} -> {book.Sum(x=> x.Price)}");
+			}
+
+// DateTime Format
+Console.WriteLine($"{book.Title} -> {book.ReleaseDate.ToString("dd.MM.yyyy")}");
+
+
+
+// texts
+		while (true)
+			{
+				index = input.IndexOf(subStr, index + 1);
+				if (index == -1)
+				{
+					break;
+				}
+				else
+				{
+					counter++;
+				}
+				
+			}
+
+//reverse string	Array.Reverse(types);
+				//or
+			string word = "abc";
+			char [] wordC = word.ToCharArray();
+			Array.Reverse(wordC);
+			word = string.Join("",wordC);
+
+			Console.WriteLine(wordC);
+
+//distinct
+			var str = "AABBCCDDDDDDEEEEEFFF";
+			var unique = str.ToCharArray().Distinct();
+			Console.WriteLine("Answer: {0}.", string.Join(string.Empty, unique));
+
+// IE Numerable to string
+var unique1 = string.Join("", word1.ToCharArray().Distinct());
+
+//////////////REGEX
+\b[a-z]+\b -> word
+| -> or
+[PeshoG]{4} -> all words with P,G,e,s,h,o and length 4
+\s* -> all white spaces (space or tab)
+\d -> all digits single
+\d+ -> all digits multi
+* from 0 to unlimited
++ from 1 to unlimited
+? from 0 to 1
+\w+\s\w+ -> word character + 1 space + word character group
+\w+\s*\w+ -> word character + (0 to unlim) space + word character group
+\w+\s+\w+ -> word character + (1 to unlim) space + word character group
+\w+\s{1}\w+ -> word character + (1) space + word character group
+nvg -> only set "nvg"
+[nvg] -> all characters n,v,g
+\t -> tab
+. -> everything
+[.] -> dot
+a.+d -> everything between a and d
+^1 -> 1 if it is in the beginning
+(?<nameofgroup> a)
+(\2) backreference -> matches the same as previous group
+.* -> (greedy) everything, even repeated sequences
+.*? -> (lazy) everything untill first occurance
+(?:1) -> either contains one 1 or no 1s
+(?:1)?(2) -> 1 - 0 or 1 time, 2 - 1 time
+([0-9A-F]+) -> contains 1 or more digits and 1 or more letters A-F
+{1,3} -> length from 1 to 3
+{2,} -> 2 or more characters
+$ -> end of string
+^ -> start of string
+(?m)([a-z]+)$ -> takes last word (2m is multiline ON, otherwise it is not working)
+((?<=start).+?(?=end)) -> every substring (more than one) between "start" and "end"
+
+Positive Lookahead
+grey(?=hound) -> matches grey only if followed by hound
+Negative Lookahead
+grey(?!hound) -> matches grey only if NOT followed by hound
+Positive Lookbehind
+(?<=grey)hound -> matches hound only if proceeded by grey
+Negative Lookbehind
+(?<!grey)hound -> matches hound only if NOT proceeded by grey
+
+(^|(?<=\s)) -> start of string or whitespace BEFORE
+($|(?=\s)) -> end of string or whitespace AFTER
+([_.-][a-z0-9])* -> from 0 to n times all of the symbols
+
+\b(to)\b -> matches the word "to"
+^(Type: )(Normal|Danger|Warning)$ -> start to end of string
+([^A-Za-z-]*)(.*) -> (group1)(group2 - everything except A-Za-z-)
+([^- >]+) -> will match every char exceprt - >
+
+
+// var matches = Regex.Matches(input,pattern);
+foreach (Match match in matches) {//todo}
+
+//replace
+var result = Regex.Replace(input,"replaced","replace with")
+var result = Regex.Replace(input,"[A-Z]","[a-z]")
+
+//print
+			foreach (Match item in result)
+			{
+				Console.Write(item.Value + " ");
+			}
+
+
+
+			var phoneMatches = Regex.Matches("phone nrs","pattern");
+			var phoneMatchesStr = phoneMatches.Cast<Match>().Select(x => x.Value.Trim()).ToArray();
+			Console.WriteLine(string.Join(" ", phoneMatchesStr));
+
+
+//groups		foreach (Match item in result)
+			{
+				Console.WriteLine("Day: " + item.Groups[1].Value
+									+", Month: " + item.Groups[3].Value
+									+ ", Year: " + item.Groups[4].Value
+				);
+			}
+
+
+
+//Array.Sort
+			string[] plotN = new string[result.Count];
+			string[] plotV = new string[result.Count];
+			Array.Sort(plotN, plotV);
+
+//sort multiple Arrays
+			int[] a = { 5, 2, 3 };
+			int[] b = { 4, 1, 2 };
+			string[] c = { "John", "Peter", "Max" };
+
+			Array.Sort(b.ToArray(), c);
+			Array.Sort(b.ToArray(), a); //filter lead a
+			Array.Sort(b.ToArray());
+			Console.WriteLine(string.Join(", ", a));
+			Console.WriteLine(string.Join(", ", b));
+			Console.WriteLine(string.Join(", ", c));
+
+//index of array max value
+			BigInteger maxValue = valueAarray.Max();
+			int index = valueArray.ToList().IndexOf(maxValue);
+
+
+//
+            // подреждаме речника
+            allPendingMassageInformation = allPendingMassageInformation
+                .OrderBy(x => x.Key)
+                .ToDictionary(x => x.Key, x => x.Value);
+
+
+// List Except
+inputList = inputList.Except(lostList).ToList();
+
+//sort by external dictionary
+
+			foreach (var pair in dwarfDict.OrderByDescending(x => x.Value)
+			.ThenByDescending(p => colorDict[p.Key.Split('|')[1]])
+			.ToDictionary(x => x.Key, x => x.Value))
+			{
+				Console.WriteLine($"({pair.Key.Split('|')[1]}) {pair.Key.Split('|')[0]} <-> {pair.Value}");
+			}
+

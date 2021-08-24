@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\02 Number Checker\bin\Debug\02 Number Checker.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\02 Number Checker\bin\Debug\02 Number Checker.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\02 Number Checker\bin\Debug\02 Number Checker.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\02 Number Checker\obj\Debug\02 Number Checker.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\02 Number Checker\obj\Debug\02 Number Checker.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\02 Number Checker\obj\Debug\02 Number Checker.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_2_Data_Types_More\02 Number Checker\obj\Debug\02 Number Checker.pdb

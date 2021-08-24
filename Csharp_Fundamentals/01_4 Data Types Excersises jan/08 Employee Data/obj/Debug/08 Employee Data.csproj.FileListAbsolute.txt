@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\08 Employee Data\bin\Debug\08 Employee Data.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\08 Employee Data\bin\Debug\08 Employee Data.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\08 Employee Data\bin\Debug\08 Employee Data.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\08 Employee Data\obj\Debug\08 Employee Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\08 Employee Data\obj\Debug\08 Employee Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\08 Employee Data\obj\Debug\08 Employee Data.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\08 Employee Data\obj\Debug\08 Employee Data.pdb

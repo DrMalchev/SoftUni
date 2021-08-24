@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\03 Poke Mon\bin\Debug\03 Poke Mon.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\03 Poke Mon\bin\Debug\03 Poke Mon.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\03 Poke Mon\bin\Debug\03 Poke Mon.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\03 Poke Mon\obj\Debug\03 Poke Mon.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\03 Poke Mon\obj\Debug\03 Poke Mon.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\03 Poke Mon\obj\Debug\03 Poke Mon.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\03 Poke Mon\obj\Debug\03 Poke Mon.pdb

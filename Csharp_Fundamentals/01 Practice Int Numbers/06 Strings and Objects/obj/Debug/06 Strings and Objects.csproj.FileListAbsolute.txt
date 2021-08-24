@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\06 Strings and Objects\bin\Debug\06 Strings and Objects.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\06 Strings and Objects\bin\Debug\06 Strings and Objects.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\06 Strings and Objects\bin\Debug\06 Strings and Objects.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\06 Strings and Objects\obj\Debug\06 Strings and Objects.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\06 Strings and Objects\obj\Debug\06 Strings and Objects.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\06 Strings and Objects\obj\Debug\06 Strings and Objects.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\06 Strings and Objects\obj\Debug\06 Strings and Objects.pdb

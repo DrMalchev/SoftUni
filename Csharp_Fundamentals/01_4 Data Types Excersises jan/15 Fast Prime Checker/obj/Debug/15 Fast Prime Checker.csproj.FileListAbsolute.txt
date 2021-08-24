@@ -1,0 +1,6 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\15 Fast Prime Checker\bin\Debug\15 Fast Prime Checker.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\15 Fast Prime Checker\bin\Debug\15 Fast Prime Checker.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\15 Fast Prime Checker\bin\Debug\15 Fast Prime Checker.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\15 Fast Prime Checker\obj\Debug\15 Fast Prime Checker.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\15 Fast Prime Checker\obj\Debug\15 Fast Prime Checker.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\15 Fast Prime Checker\obj\Debug\15 Fast Prime Checker.pdb

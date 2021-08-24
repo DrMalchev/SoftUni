@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\05 Wormtest\bin\Debug\05 Wormtest.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\05 Wormtest\bin\Debug\05 Wormtest.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\05 Wormtest\bin\Debug\05 Wormtest.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\05 Wormtest\obj\Debug\05 Wormtest.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\05 Wormtest\obj\Debug\05 Wormtest.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\05 Wormtest\obj\Debug\05 Wormtest.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\05 Wormtest\obj\Debug\05 Wormtest.pdb

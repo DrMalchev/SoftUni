@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Data Types Variables Methods\03 Big Power\bin\Debug\03 Big Power.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Data Types Variables Methods\03 Big Power\bin\Debug\03 Big Power.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Data Types Variables Methods\03 Big Power\bin\Debug\03 Big Power.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Data Types Variables Methods\03 Big Power\obj\Debug\03 Big Power.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Data Types Variables Methods\03 Big Power\obj\Debug\03 Big Power.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Data Types Variables Methods\03 Big Power\obj\Debug\03 Big Power.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Data Types Variables Methods\03 Big Power\obj\Debug\03 Big Power.pdb

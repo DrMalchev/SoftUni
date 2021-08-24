@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\07 Exchange Var Values\bin\Debug\07 Exchange Var Values.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\07 Exchange Var Values\bin\Debug\07 Exchange Var Values.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\07 Exchange Var Values\bin\Debug\07 Exchange Var Values.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\07 Exchange Var Values\obj\Debug\07 Exchange Var Values.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\07 Exchange Var Values\obj\Debug\07 Exchange Var Values.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\07 Exchange Var Values\obj\Debug\07 Exchange Var Values.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\07 Exchange Var Values\obj\Debug\07 Exchange Var Values.csprojResolveAssemblyReference.cache

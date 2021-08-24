@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\04 Resurrection\bin\Debug\04 Resurrection.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\04 Resurrection\bin\Debug\04 Resurrection.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\04 Resurrection\bin\Debug\04 Resurrection.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\04 Resurrection\obj\Debug\04 Resurrection.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\04 Resurrection\obj\Debug\04 Resurrection.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\04 Resurrection\obj\Debug\04 Resurrection.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\04 Resurrection\obj\Debug\04 Resurrection.pdb

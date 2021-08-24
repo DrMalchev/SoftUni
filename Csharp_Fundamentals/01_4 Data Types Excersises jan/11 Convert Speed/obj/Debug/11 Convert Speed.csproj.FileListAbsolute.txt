@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\11 Convert Speed\bin\Debug\11 Convert Speed.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\11 Convert Speed\bin\Debug\11 Convert Speed.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\11 Convert Speed\bin\Debug\11 Convert Speed.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\11 Convert Speed\obj\Debug\11 Convert Speed.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\11 Convert Speed\obj\Debug\11 Convert Speed.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\11 Convert Speed\obj\Debug\11 Convert Speed.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\11 Convert Speed\obj\Debug\11 Convert Speed.pdb

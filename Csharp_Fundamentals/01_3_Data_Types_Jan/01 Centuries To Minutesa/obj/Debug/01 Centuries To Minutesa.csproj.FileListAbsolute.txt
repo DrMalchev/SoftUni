@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\01 Centuries To Minutesa\bin\Debug\01 Centuries To Minutesa.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\01 Centuries To Minutesa\bin\Debug\01 Centuries To Minutesa.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\01 Centuries To Minutesa\bin\Debug\01 Centuries To Minutesa.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\01 Centuries To Minutesa\obj\Debug\01 Centuries To Minutesa.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\01 Centuries To Minutesa\obj\Debug\01 Centuries To Minutesa.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\01 Centuries To Minutesa\obj\Debug\01 Centuries To Minutesa.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\01 Centuries To Minutesa\obj\Debug\01 Centuries To Minutesa.pdb

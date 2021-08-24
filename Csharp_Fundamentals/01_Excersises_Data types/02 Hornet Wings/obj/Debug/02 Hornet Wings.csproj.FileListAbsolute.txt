@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\02 Hornet Wings\bin\Debug\02 Hornet Wings.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\02 Hornet Wings\bin\Debug\02 Hornet Wings.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\02 Hornet Wings\bin\Debug\02 Hornet Wings.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\02 Hornet Wings\obj\Debug\02 Hornet Wings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\02 Hornet Wings\obj\Debug\02 Hornet Wings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\02 Hornet Wings\obj\Debug\02 Hornet Wings.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\02 Hornet Wings\obj\Debug\02 Hornet Wings.pdb

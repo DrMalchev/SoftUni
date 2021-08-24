@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\07 Greeting\bin\Debug\07 Greeting.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\07 Greeting\bin\Debug\07 Greeting.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\07 Greeting\bin\Debug\07 Greeting.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\07 Greeting\obj\Debug\07 Greeting.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\07 Greeting\obj\Debug\07 Greeting.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\07 Greeting\obj\Debug\07 Greeting.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\07 Greeting\obj\Debug\07 Greeting.pdb

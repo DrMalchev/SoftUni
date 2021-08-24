@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19_2\obj\Debug\19_2.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19_2\obj\Debug\19_2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19_2\bin\Debug\19_2.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19_2\bin\Debug\19_2.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19_2\bin\Debug\19_2.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19_2\obj\Debug\19_2.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19_2\obj\Debug\19_2.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\03 Practice Chars and Strings\bin\Debug\03 Practice Chars and Strings.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\03 Practice Chars and Strings\bin\Debug\03 Practice Chars and Strings.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\03 Practice Chars and Strings\bin\Debug\03 Practice Chars and Strings.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\03 Practice Chars and Strings\obj\Debug\03 Practice Chars and Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\03 Practice Chars and Strings\obj\Debug\03 Practice Chars and Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\03 Practice Chars and Strings\obj\Debug\03 Practice Chars and Strings.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\03 Practice Chars and Strings\obj\Debug\03 Practice Chars and Strings.pdb

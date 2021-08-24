@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\02 Practice Floating Points\bin\Debug\02 Practice Floating Points.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\02 Practice Floating Points\bin\Debug\02 Practice Floating Points.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\02 Practice Floating Points\bin\Debug\02 Practice Floating Points.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\02 Practice Floating Points\obj\Debug\02 Practice Floating Points.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\02 Practice Floating Points\obj\Debug\02 Practice Floating Points.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\02 Practice Floating Points\obj\Debug\02 Practice Floating Points.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\02 Practice Floating Points\obj\Debug\02 Practice Floating Points.pdb

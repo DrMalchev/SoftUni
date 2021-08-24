@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19 Thea The Photographer\bin\Debug\19 Thea The Photographer.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19 Thea The Photographer\bin\Debug\19 Thea The Photographer.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19 Thea The Photographer\bin\Debug\19 Thea The Photographer.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19 Thea The Photographer\obj\Debug\19 Thea The Photographer.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19 Thea The Photographer\obj\Debug\19 Thea The Photographer.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19 Thea The Photographer\obj\Debug\19 Thea The Photographer.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\19 Thea The Photographer\obj\Debug\19 Thea The Photographer.pdb

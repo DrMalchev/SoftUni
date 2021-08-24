@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\02 Circle Area\bin\Debug\02 Circle Area.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\02 Circle Area\bin\Debug\02 Circle Area.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\02 Circle Area\bin\Debug\02 Circle Area.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\02 Circle Area\obj\Debug\02 Circle Area.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\02 Circle Area\obj\Debug\02 Circle Area.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\02 Circle Area\obj\Debug\02 Circle Area.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\02 Circle Area\obj\Debug\02 Circle Area.pdb

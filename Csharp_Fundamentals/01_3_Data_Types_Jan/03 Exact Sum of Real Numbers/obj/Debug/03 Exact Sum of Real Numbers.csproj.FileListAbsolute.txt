@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\03 Exact Sum of Real Numbers\bin\Debug\03 Exact Sum of Real Numbers.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\03 Exact Sum of Real Numbers\bin\Debug\03 Exact Sum of Real Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\03 Exact Sum of Real Numbers\bin\Debug\03 Exact Sum of Real Numbers.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\03 Exact Sum of Real Numbers\obj\Debug\03 Exact Sum of Real Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\03 Exact Sum of Real Numbers\obj\Debug\03 Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\03 Exact Sum of Real Numbers\obj\Debug\03 Exact Sum of Real Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\03 Exact Sum of Real Numbers\obj\Debug\03 Exact Sum of Real Numbers.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\05 Special Numbers\bin\Debug\05 Special Numbers.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\05 Special Numbers\bin\Debug\05 Special Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\05 Special Numbers\bin\Debug\05 Special Numbers.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\05 Special Numbers\obj\Debug\05 Special Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\05 Special Numbers\obj\Debug\05 Special Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\05 Special Numbers\obj\Debug\05 Special Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\05 Special Numbers\obj\Debug\05 Special Numbers.pdb

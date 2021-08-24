@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\17 Print Part of ASCII Table\bin\Debug\17 Print Part of ASCII Table.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\17 Print Part of ASCII Table\bin\Debug\17 Print Part of ASCII Table.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\17 Print Part of ASCII Table\bin\Debug\17 Print Part of ASCII Table.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\17 Print Part of ASCII Table\obj\Debug\17 Print Part of ASCII Table.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\17 Print Part of ASCII Table\obj\Debug\17 Print Part of ASCII Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\17 Print Part of ASCII Table\obj\Debug\17 Print Part of ASCII Table.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\17 Print Part of ASCII Table\obj\Debug\17 Print Part of ASCII Table.pdb

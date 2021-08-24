@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\01 Practice Int Numbers\bin\Debug\01 Practice Int Numbers.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\01 Practice Int Numbers\bin\Debug\01 Practice Int Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\01 Practice Int Numbers\bin\Debug\01 Practice Int Numbers.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\01 Practice Int Numbers\obj\Debug\01 Practice Int Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\01 Practice Int Numbers\obj\Debug\01 Practice Int Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\01 Practice Int Numbers\obj\Debug\01 Practice Int Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01 Practice Int Numbers\01 Practice Int Numbers\obj\Debug\01 Practice Int Numbers.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\08 Refactor Volume of Pyramid\bin\Debug\08 Refactor Volume of Pyramid.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\08 Refactor Volume of Pyramid\bin\Debug\08 Refactor Volume of Pyramid.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\08 Refactor Volume of Pyramid\bin\Debug\08 Refactor Volume of Pyramid.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\08 Refactor Volume of Pyramid\obj\Debug\08 Refactor Volume of Pyramid.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\08 Refactor Volume of Pyramid\obj\Debug\08 Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\08 Refactor Volume of Pyramid\obj\Debug\08 Refactor Volume of Pyramid.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\08 Refactor Volume of Pyramid\obj\Debug\08 Refactor Volume of Pyramid.pdb

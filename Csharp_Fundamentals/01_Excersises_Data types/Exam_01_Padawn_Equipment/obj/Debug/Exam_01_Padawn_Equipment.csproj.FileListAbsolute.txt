@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\Exam_01_Padawn_Equipment\bin\Debug\Exam_01_Padawn_Equipment.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\Exam_01_Padawn_Equipment\bin\Debug\Exam_01_Padawn_Equipment.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\Exam_01_Padawn_Equipment\bin\Debug\Exam_01_Padawn_Equipment.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\Exam_01_Padawn_Equipment\obj\Debug\Exam_01_Padawn_Equipment.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\Exam_01_Padawn_Equipment\obj\Debug\Exam_01_Padawn_Equipment.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\Exam_01_Padawn_Equipment\obj\Debug\Exam_01_Padawn_Equipment.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_Excersises_Data types\Exam_01_Padawn_Equipment\obj\Debug\Exam_01_Padawn_Equipment.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\06 Tripples of Latin Letters\obj\Debug\06 Tripples of Latin Letters.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\06 Tripples of Latin Letters\obj\Debug\06 Tripples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\06 Tripples of Latin Letters\bin\Debug\06 Tripples of Latin Letters.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\06 Tripples of Latin Letters\bin\Debug\06 Tripples of Latin Letters.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\06 Tripples of Latin Letters\bin\Debug\06 Tripples of Latin Letters.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\06 Tripples of Latin Letters\obj\Debug\06 Tripples of Latin Letters.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\06 Tripples of Latin Letters\obj\Debug\06 Tripples of Latin Letters.pdb

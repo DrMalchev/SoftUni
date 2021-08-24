@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\18_2 Different Integer Sizes\bin\Debug\18_2 Different Integer Sizes.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\18_2 Different Integer Sizes\bin\Debug\18_2 Different Integer Sizes.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\18_2 Different Integer Sizes\bin\Debug\18_2 Different Integer Sizes.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\18_2 Different Integer Sizes\obj\Debug\18_2 Different Integer Sizes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\18_2 Different Integer Sizes\obj\Debug\18_2 Different Integer Sizes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\18_2 Different Integer Sizes\obj\Debug\18_2 Different Integer Sizes.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\18_2 Different Integer Sizes\obj\Debug\18_2 Different Integer Sizes.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\09 Reafctor Special Numbers\bin\Debug\09 Reafctor Special Numbers.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\09 Reafctor Special Numbers\bin\Debug\09 Reafctor Special Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\09 Reafctor Special Numbers\bin\Debug\09 Reafctor Special Numbers.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\09 Reafctor Special Numbers\obj\Debug\09 Reafctor Special Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\09 Reafctor Special Numbers\obj\Debug\09 Reafctor Special Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\09 Reafctor Special Numbers\obj\Debug\09 Reafctor Special Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_3_Data_Types_Jan\09 Reafctor Special Numbers\obj\Debug\09 Reafctor Special Numbers.pdb

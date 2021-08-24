@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\12 Rectangle Properties\bin\Debug\12 Rectangle Properties.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\12 Rectangle Properties\bin\Debug\12 Rectangle Properties.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\12 Rectangle Properties\bin\Debug\12 Rectangle Properties.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\12 Rectangle Properties\obj\Debug\12 Rectangle Properties.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\12 Rectangle Properties\obj\Debug\12 Rectangle Properties.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\12 Rectangle Properties\obj\Debug\12 Rectangle Properties.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\01_4 Data Types Excersises jan\12 Rectangle Properties\obj\Debug\12 Rectangle Properties.pdb
