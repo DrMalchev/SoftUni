@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\06 Valid User Names\bin\Debug\06 Valid User Names.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\06 Valid User Names\bin\Debug\06 Valid User Names.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\06 Valid User Names\bin\Debug\06 Valid User Names.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\06 Valid User Names\obj\Debug\06 Valid User Names.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\06 Valid User Names\obj\Debug\06 Valid User Names.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\06 Valid User Names\obj\Debug\06 Valid User Names.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\06 Valid User Names\obj\Debug\06 Valid User Names.pdb

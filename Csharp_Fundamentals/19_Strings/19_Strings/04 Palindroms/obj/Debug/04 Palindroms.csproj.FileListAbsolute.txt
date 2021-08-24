@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\04 Palindroms\bin\Debug\04 Palindroms.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\04 Palindroms\bin\Debug\04 Palindroms.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\04 Palindroms\bin\Debug\04 Palindroms.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\04 Palindroms\obj\Debug\04 Palindroms.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\04 Palindroms\obj\Debug\04 Palindroms.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\04 Palindroms\obj\Debug\04 Palindroms.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\04 Palindroms\obj\Debug\04 Palindroms.pdb

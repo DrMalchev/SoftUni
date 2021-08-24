@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\04 Distance between Points\bin\Debug\04 Distance between Points.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\04 Distance between Points\bin\Debug\04 Distance between Points.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\04 Distance between Points\bin\Debug\04 Distance between Points.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\04 Distance between Points\obj\Debug\04 Distance between Points.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\04 Distance between Points\obj\Debug\04 Distance between Points.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\04 Distance between Points\obj\Debug\04 Distance between Points.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\04 Distance between Points\obj\Debug\04 Distance between Points.pdb

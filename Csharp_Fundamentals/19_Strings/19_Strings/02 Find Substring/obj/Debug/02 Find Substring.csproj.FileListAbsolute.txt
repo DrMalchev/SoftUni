@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\02 Find Substring\bin\Debug\02 Find Substring.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\02 Find Substring\bin\Debug\02 Find Substring.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\02 Find Substring\bin\Debug\02 Find Substring.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\02 Find Substring\obj\Debug\02 Find Substring.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\02 Find Substring\obj\Debug\02 Find Substring.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\02 Find Substring\obj\Debug\02 Find Substring.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\02 Find Substring\obj\Debug\02 Find Substring.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\03 Factoriel\bin\Debug\03 Factoriel.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\03 Factoriel\bin\Debug\03 Factoriel.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\03 Factoriel\bin\Debug\03 Factoriel.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\03 Factoriel\obj\Debug\03 Factoriel.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\03 Factoriel\obj\Debug\03 Factoriel.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\03 Factoriel\obj\Debug\03 Factoriel.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\03 Factoriel\obj\Debug\03 Factoriel.pdb

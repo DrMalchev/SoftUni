@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\01 Days of Week\bin\Debug\01 Days of Week.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\01 Days of Week\bin\Debug\01 Days of Week.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\01 Days of Week\bin\Debug\01 Days of Week.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\01 Days of Week\obj\Debug\01 Days of Week.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\01 Days of Week\obj\Debug\01 Days of Week.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\01 Days of Week\obj\Debug\01 Days of Week.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\01 Days of Week\obj\Debug\01 Days of Week.pdb

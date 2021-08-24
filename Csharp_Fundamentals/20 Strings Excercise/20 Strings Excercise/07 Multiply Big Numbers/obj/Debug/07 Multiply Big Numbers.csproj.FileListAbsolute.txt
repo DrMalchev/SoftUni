@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\07 Multiply Big Numbers\bin\Debug\07 Multiply Big Numbers.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\07 Multiply Big Numbers\bin\Debug\07 Multiply Big Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\07 Multiply Big Numbers\bin\Debug\07 Multiply Big Numbers.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\07 Multiply Big Numbers\obj\Debug\07 Multiply Big Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\07 Multiply Big Numbers\obj\Debug\07 Multiply Big Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\07 Multiply Big Numbers\obj\Debug\07 Multiply Big Numbers.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\07 Multiply Big Numbers\obj\Debug\07 Multiply Big Numbers.pdb

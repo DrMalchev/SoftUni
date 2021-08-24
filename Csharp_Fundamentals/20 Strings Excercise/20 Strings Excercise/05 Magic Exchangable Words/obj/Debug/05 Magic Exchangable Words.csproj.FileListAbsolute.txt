@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\05 Magic Exchangable Words\bin\Debug\05 Magic Exchangable Words.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\05 Magic Exchangable Words\bin\Debug\05 Magic Exchangable Words.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\05 Magic Exchangable Words\bin\Debug\05 Magic Exchangable Words.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\05 Magic Exchangable Words\obj\Debug\05 Magic Exchangable Words.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\05 Magic Exchangable Words\obj\Debug\05 Magic Exchangable Words.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\05 Magic Exchangable Words\obj\Debug\05 Magic Exchangable Words.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\05 Magic Exchangable Words\obj\Debug\05 Magic Exchangable Words.pdb

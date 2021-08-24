@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\18 Objects Excersices\18 Objects Excersices\09 TeamWork Project\bin\Debug\09 TeamWork Project.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\18 Objects Excersices\18 Objects Excersices\09 TeamWork Project\bin\Debug\09 TeamWork Project.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\18 Objects Excersices\18 Objects Excersices\09 TeamWork Project\bin\Debug\09 TeamWork Project.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\18 Objects Excersices\18 Objects Excersices\09 TeamWork Project\obj\Debug\09 TeamWork Project.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\18 Objects Excersices\18 Objects Excersices\09 TeamWork Project\obj\Debug\09 TeamWork Project.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\18 Objects Excersices\18 Objects Excersices\09 TeamWork Project\obj\Debug\09 TeamWork Project.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\18 Objects Excersices\18 Objects Excersices\09 TeamWork Project\obj\Debug\09 TeamWork Project.pdb

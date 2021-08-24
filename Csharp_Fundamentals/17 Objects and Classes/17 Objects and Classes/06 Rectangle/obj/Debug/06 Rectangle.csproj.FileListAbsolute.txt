@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\06 Rectangle\bin\Debug\06 Rectangle.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\06 Rectangle\bin\Debug\06 Rectangle.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\06 Rectangle\bin\Debug\06 Rectangle.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\06 Rectangle\obj\Debug\06 Rectangle.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\06 Rectangle\obj\Debug\06 Rectangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\06 Rectangle\obj\Debug\06 Rectangle.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\06 Rectangle\obj\Debug\06 Rectangle.pdb

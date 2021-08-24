@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\04 Match Date\bin\Debug\04 Match Date.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\04 Match Date\bin\Debug\04 Match Date.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\04 Match Date\bin\Debug\04 Match Date.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\04 Match Date\obj\Debug\04 Match Date.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\04 Match Date\obj\Debug\04 Match Date.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\04 Match Date\obj\Debug\04 Match Date.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\04 Match Date\obj\Debug\04 Match Date.pdb

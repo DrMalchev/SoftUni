@@ -1,0 +1,6 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\03 Convert to Unicode\bin\Debug\03 Convert to Unicode.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\03 Convert to Unicode\bin\Debug\03 Convert to Unicode.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\03 Convert to Unicode\bin\Debug\03 Convert to Unicode.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\03 Convert to Unicode\obj\Debug\03 Convert to Unicode.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\03 Convert to Unicode\obj\Debug\03 Convert to Unicode.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\20 Strings Excercise\20 Strings Excercise\03 Convert to Unicode\obj\Debug\03 Convert to Unicode.pdb

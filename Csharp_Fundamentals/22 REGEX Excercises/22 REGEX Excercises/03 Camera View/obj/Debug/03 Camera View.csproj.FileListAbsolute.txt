@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\03 Camera View\bin\Debug\03 Camera View.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\03 Camera View\bin\Debug\03 Camera View.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\03 Camera View\bin\Debug\03 Camera View.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\03 Camera View\obj\Debug\03 Camera View.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\03 Camera View\obj\Debug\03 Camera View.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\03 Camera View\obj\Debug\03 Camera View.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\03 Camera View\obj\Debug\03 Camera View.pdb

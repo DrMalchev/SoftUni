@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\05 Key Replacer\bin\Debug\05 Key Replacer.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\05 Key Replacer\bin\Debug\05 Key Replacer.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\05 Key Replacer\bin\Debug\05 Key Replacer.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\05 Key Replacer\obj\Debug\05 Key Replacer.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\05 Key Replacer\obj\Debug\05 Key Replacer.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\05 Key Replacer\obj\Debug\05 Key Replacer.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\05 Key Replacer\obj\Debug\05 Key Replacer.pdb

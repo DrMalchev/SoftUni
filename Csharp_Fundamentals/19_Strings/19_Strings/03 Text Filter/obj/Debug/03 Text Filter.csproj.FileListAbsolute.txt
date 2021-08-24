@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\03 Text Filter\bin\Debug\03 Text Filter.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\03 Text Filter\bin\Debug\03 Text Filter.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\03 Text Filter\bin\Debug\03 Text Filter.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\03 Text Filter\obj\Debug\03 Text Filter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\03 Text Filter\obj\Debug\03 Text Filter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\03 Text Filter\obj\Debug\03 Text Filter.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\19_Strings\19_Strings\03 Text Filter\obj\Debug\03 Text Filter.pdb

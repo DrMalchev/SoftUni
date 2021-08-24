@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\02 Match Phone Number\bin\Debug\02 Match Phone Number.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\02 Match Phone Number\bin\Debug\02 Match Phone Number.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\02 Match Phone Number\bin\Debug\02 Match Phone Number.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\02 Match Phone Number\obj\Debug\02 Match Phone Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\02 Match Phone Number\obj\Debug\02 Match Phone Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\02 Match Phone Number\obj\Debug\02 Match Phone Number.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\21 REGEX\21 REGEX\02 Match Phone Number\obj\Debug\02 Match Phone Number.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\02 Extract Sentance By Keyword\bin\Debug\02 Extract Sentance By Keyword.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\02 Extract Sentance By Keyword\bin\Debug\02 Extract Sentance By Keyword.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\02 Extract Sentance By Keyword\bin\Debug\02 Extract Sentance By Keyword.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\02 Extract Sentance By Keyword\obj\Debug\02 Extract Sentance By Keyword.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\02 Extract Sentance By Keyword\obj\Debug\02 Extract Sentance By Keyword.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\02 Extract Sentance By Keyword\obj\Debug\02 Extract Sentance By Keyword.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\22 REGEX Excercises\22 REGEX Excercises\02 Extract Sentance By Keyword\obj\Debug\02 Extract Sentance By Keyword.pdb

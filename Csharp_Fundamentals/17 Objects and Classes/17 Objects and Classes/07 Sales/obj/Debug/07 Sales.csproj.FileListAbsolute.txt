@@ -1,0 +1,7 @@
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\07 Sales\obj\Debug\07 Sales.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\07 Sales\obj\Debug\07 Sales.csproj.CoreCompileInputs.cache
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\07 Sales\bin\Debug\07 Sales.exe.config
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\07 Sales\bin\Debug\07 Sales.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\07 Sales\bin\Debug\07 Sales.pdb
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\07 Sales\obj\Debug\07 Sales.exe
+D:\SoftUni\Projects\02 Tech Module\02_01 Programming Fundamentals Extended\17 Objects and Classes\17 Objects and Classes\07 Sales\obj\Debug\07 Sales.pdb
